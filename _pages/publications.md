@@ -12,11 +12,20 @@ author_profile: true
 *Ph.D. Thesis Chapter* <br>
 
 
-## Dormant Papers
+## Ongoing Research
+
+**When disasters hit the natural resources: explaining the temporal-spatial dynamics of violent conflicts** <br> 
+*Ph.D. Thesis chpater, under the research proposal stage* <br>
+
+**Mapping the protest in mainland China and Hong Kong** <br> 
+*Plan to create an interactive webpage via R ShinyApp to display the temporal and spatial distribution of protests in mainland China and Hong Kong* <br>
+
+
+## Dormant Research
 
 **Natural Disasters and Violent Conflicts: the Role of Social Organizations** <br> 
 *The thesis for the master degree at LSE* <br> 
-> The security implication of natural disasters has received increasing attention from policymakers and academics in recent years. Despite the natural disaster-conflict link being widely assumed in the policy and popular field, scholars have still not reached a consensus on this link and present mixed empirical results. This study examines whether the extent of state repression of social organizations explains why natural disasters sometimes lead to violent conflicts but at other times not. Using insights from most previous literatures, this study understands natural disasters as related to affect the grievances of people. Still, whether their grievances transform into violent conflicts highly depends on the factors that help promote collective mobilization. Specifically, the occurrence of violent conflicts after natural disasters is moderated by high state repression of social organizations. When social organizations including Civil Society Organizations (CSOs) and political parties face less repression, mobilizing structures have more resources to draw upon to engage in collective action. Also, less-constrained organizations will engage in framing the existing grievances into group-level phenomena, which increases the risk of violent conflicts. Using the institutional data from the Varieties of Democracy (V-Dem) project and the data on riots retrieved from the Social Conflict Analysis Dataset (SCAD) in Africa from 1990 to 2014, the findings suggest that the conditional effect of state repression of social organizations varies across the different types of natural disasters. Higher state repression of social organizations decreases the likelihood of riots when droughts arise. However, after rapid-onset disasters, this conditional effect of social organizations disappears. 
+> The security implication of natural disasters has received increasing attention from policymakers and academics in recent years. Despite the natural disaster-conflict link being widely assumed in the policy and popular field, scholars have still not reached a consensus on this link and present mixed empirical results. This study examines whether the extent of state repression of social organizations explains why natural disasters sometimes lead to violent conflicts but at other times not. Using insights from most previous literatures, this study understands natural disasters as related to affect the grievances of people. Still, whether their grievances transform into violent conflicts highly depends on the factors that help promote collective mobilization. Specifically, the occurrence of violent conflicts after natural disasters is moderated by high state repression of social organizations. When social organizations including Civil Society Organizations (CSOs) and political parties face less repression, mobilizing structures have more resources to draw upon to engage in collective action. Also, less-constrained organizations will engage in framing the existing grievances into group-level phenomena, which increases the risk of violent conflicts. Using the institutional data from the Varieties of Democracy (V-Dem) project and the data on riots retrieved from the Social Conflict Analysis Dataset (SCAD) in Africa from 1990 to 2014, the findings suggest that the conditional effect of state repression of social organizations varies across the different types of natural disasters. Higher state repression of social organizations decreases the likelihood of riots when droughts arise. However, after rapid-onset disasters, this conditional effect of social organizations disappears.
 
 **Research: The Political Participation of Ethnic Minority Group** <br> 
 *Based on the assignment for a undergraduate module* <br> 
