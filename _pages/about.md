@@ -12,6 +12,4 @@ I am a [ESRC Ph.D. Student](https://www.ninedtp.ac.uk/wangyin-zhao-a-disaster-fo
 
 I use advanced quantitative method to study climate change, natural disasters, and violence. My Ph.D. dissertation titled as "A disaster for whom? The conditional impact of natural disasters on civil conflicts" investigates whether this relationship is moderated by where the disaster hits, by sources of rebel-group finance, and by the government aid. Additionally, I also interested in and welcome the topics including the ethnic identity of the second-generation immigrants, political or social trust and mega-events, and how climate change affects public attitude or voting.  
 
-Beyond the academica, I am a fan of hiking, cycling, and nature.
-
-Thank you very much.
+Beyond the academia, I love hiking, cycling, and nature. Thank you very much.
