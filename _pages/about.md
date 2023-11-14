@@ -14,4 +14,4 @@ I use advanced quantitative method to study climate change, natural disasters, a
 
 Beyond the academica, I am a fan of hiking, cycling, and nature.
 
-For my CV, please click [here](https://github.com/Wangyin18/wangyinzhao.github.io/files/CV.pdf). Thank you very much.
+For my CV, please click [here](https://github.com/Wangyin18/wangyinzhao.github.io/blob/master/files/CV.pdf). Thank you very much.
