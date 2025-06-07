@@ -8,17 +8,15 @@ author_profile: true
 
 ## Working Papers
 
-**The impact of natural disasters on the ongoing civil war: the role of spatial configuration of territorial control** <br> 
-*Ph.D. Thesis Chapter* <br>
+**The impact of natural disasters on the ongoing civil war: the role of spatial configuration of territorial control** <br> at Journal of Conflict Resolution [Link](https://journals.sagepub.com/doi/10.1177/00220027251346912)
 
-
-## Ongoing Research
+## Working Papers
 
 **When disasters hit the natural resources: explaining the temporal-spatial dynamics of violent conflicts** <br> 
-*Ph.D. Thesis chpater, under the research proposal stage* <br>
 
-**Mapping the protest in mainland China and Hong Kong** <br> 
-*Plan to create an interactive webpage via R ShinyApp to display the temporal and spatial distribution of protests in mainland China and Hong Kong* <br>
+**Anticipated Power Shifts, Commitment, and Civil War Violence** <br> 
+*(with Mahmoud Osman)
+
 
 
 ## Dormant Research
