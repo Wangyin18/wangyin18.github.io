@@ -8,10 +8,10 @@ author_profile: true
 
 ## Durham University — School of Government and International Affairs  
 **Teaching Assistant**  
-- **SGIA1201: Research Politics and International Relations (Undergraduate)**. Teaching Assistant for [Dr Adrian Millican](https://www.durham.ac.uk/staff/adrian-millican/) and [Dr Moritz Osnabruegge](https://osnabruegge.github.io), 2023-2024
+- **SGIA1201: Research Politics and International Relations (Seminar)**. Teaching Assistant for [Dr Adrian Millican](https://www.durham.ac.uk/staff/adrian-millican/) and [Dr Moritz Osnabruegge](https://osnabruegge.github.io), 2023-2024
 
-- **SGIA1201: Research Politics and International Relations (Undergraduate)**. Teaching Assistant for [Dr Fanni Toth]([https://www.durham.ac.uk/staff/adrian-/](https://www.durham.ac.uk/staff/fanni-toth/)) and [Dr Moritz Osnabruegge](https://osnabruegge.github.io), 2024-2025
+- **SGIA1201: Research Politics and International Relations (Seminar)**. Teaching Assistant for [Dr Fanni Toth]([https://www.durham.ac.uk/staff/adrian-/](https://www.durham.ac.uk/staff/fanni-toth/)) and [Dr Moritz Osnabruegge](https://osnabruegge.github.io), 2024-2025
 
-- **SGIA1211: Introduction to Comparative Politics (Undergraduate)**. Teaching Assistant for [Dr Fanni Toth]([https://www.durham.ac.uk/staff/adrian-/](https://www.durham.ac.uk/staff/fanni-toth/)), 2024-2025
+- **SGIA1211: Introduction to Comparative Politics (Seminar)**. Teaching Assistant for [Dr Fanni Toth]([https://www.durham.ac.uk/staff/adrian-/](https://www.durham.ac.uk/staff/fanni-toth/)), 2024-2025
 
 - **SGIA1201: Research Politics and International Relations (Computer Lab)**. Teaching Assistant for [Dr Fanni Toth](https://www.durham.ac.uk/staff/fanni-toth/)), Michaelmas term, 2026
