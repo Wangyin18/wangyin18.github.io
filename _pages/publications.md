@@ -9,20 +9,23 @@ author_profile: true
 ## Peer-Reviewed Papers
 
 - **“The Impact of Natural Disasters on the Ongoing Civil War: The Role of Spatial Configuration of Territorial Control.”**  
-  *Journal of Conflict Resolution.*  
-  [https://doi.org/10.1177/00220027251346912](https://doi.org/10.1177/00220027251346912)
+  *Journal of Conflict Resolution* [https://doi.org/10.1177/00220027251346912](https://doi.org/10.1177/00220027251346912)
+  [Replication Files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WOL1EC)
 
 ---
 
 ## Working Papers
 
-- **“Buffering the Disaster: How Extractive Companies Dampen Post-Disaster Conflict.”**
+- **“Buffering the Disaster: How Extractive Companies Dampen Post-Disaster Conflict”**
 
-- **“Anticipated Power Shifts, Commitment, and Civil War Violence.”**  
-  (with Mahmoud Osman)
+- **“Anticipated Power Shifts, Commitment, and Civil War Violence”** (with Mahmoud Osman)
 
 ---
 
 ## Works in Progress 
 
+- **“Logging Policy, Forest Cover, and Insurgent Violence in Afghanistan”** (with Christopher Blair)
 
+- **“Ephedra and Conflict in Afghanistan”** (with Christopher Blair)
+
+- **“Rain, Terrain, and Insurgent Activity: Evidence from Operation Popeye and the Vietnam War”** 
