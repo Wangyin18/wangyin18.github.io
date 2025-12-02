@@ -13,3 +13,5 @@ author_profile: true
 - **SGIA1201: Research Politics and International Relations (Undergraduate)**. Teaching Assistant for [Dr Fanni Toth]([https://www.durham.ac.uk/staff/adrian-/](https://www.durham.ac.uk/staff/fanni-toth/)) and [Dr Moritz Osnabruegge](https://osnabruegge.github.io), 2024-2025
 
 - **SGIA1211: Introduction to Comparative Politics (Undergraduate)**. Teaching Assistant for [Dr Fanni Toth]([https://www.durham.ac.uk/staff/adrian-/](https://www.durham.ac.uk/staff/fanni-toth/)), 2024-2025
+
+- - **SGIA1201: Research Politics and International Relations (Computer Lab)**. Teaching Assistant for [Dr Fanni Toth](https://www.durham.ac.uk/staff/fanni-toth/)), Michaelmas term, 2026
