@@ -8,8 +8,8 @@ author_profile: true
 
 ## Peer-Reviewed Papers
 
-- **“The Impact of Natural Disasters on the Ongoing Civil War: The Role of Spatial Configuration of Territorial Control”**  
-  *Journal of Conflict Resolution* [Link](https://doi.org/10.1177/00220027251346912) | 
+- **“The Impact of Natural Disasters on the Ongoing Civil War: The Role of Spatial Configuration of Territorial Control”**, *Journal of Conflict Resolution*  
+  [Link](https://doi.org/10.1177/00220027251346912) | 
   [Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WOL1EC)
 
 ---
