@@ -14,4 +14,4 @@ I use advanced quantitative method to study natural disasters and violence, with
 
 I received a [MSc in International Relations(Research)](https://www.lse.ac.uk/international-relations) at LSE and a [BA in International Studies](https://www.nottingham.edu.cn/en/humanities-and-social-sciences/schools-and-department/international-studies/home.aspx) at University of Nottingham, Ningbo campus.  
 
-Beyond the academia, I love hiking, cycling, and nature.
+Beyond the academia, I love hiking, cycling, and nature. 
